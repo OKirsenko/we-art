@@ -1,0 +1,15 @@
+.header {
+    padding-top: 33px;
+    padding-bottom: 20px;
+}
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.social__list {
+    display: flex;
+    .social__item:not(:last-child) {
+        margin-right: 20px;
+    }
+}

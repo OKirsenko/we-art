@@ -24,7 +24,7 @@
     .social__item:not(:last-child) {
         margin-right: 20px;
     }
-    .social__icon_dark {
+    .social__icon {
         fill: var(--icon-dark);
         cursor: pointer;
         transition-property: fill;
@@ -32,9 +32,12 @@
         transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
         &:hover,
         &:focus {
-            fill: var(--icon-light);
+            fill: var(--icon-hover);
             }
         }
+    .social__icon_light{
+        fill: var(--icon-light);
+    }
 }
 .lang__list {
     display: flex;

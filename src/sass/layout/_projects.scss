@@ -59,7 +59,6 @@
     flex-wrap: wrap;
     justify-content: space-between;
     .projects__item {
-        // width: calc(100 / 3 - 30px);
         width: 100%;
         &:not(:last-child) {
             margin-bottom: 30px;

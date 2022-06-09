@@ -7,4 +7,4 @@ const e=document.querySelector("#video"),t=document.querySelector(".video__contr
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/controls"),require("./js/mobile-menu");
 },{"./sass/main.scss":"clu1","./js/controls":"ZsLb","./js/mobile-menu":"sByI"}]},{},["Focm"], null)
-//# sourceMappingURL=/we-art/src.4dee59c7.js.map
+//# sourceMappingURL=/we-art/src.fa10b7f2.js.map
